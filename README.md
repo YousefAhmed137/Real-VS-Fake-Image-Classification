@@ -12,7 +12,7 @@ To ensure reliability and speed, the system evaluates images using a **Dual-Arch
 ## 🚀 Live Demo
 
 <div align="center">
-  <a href="https://huggingface.co/spaces/YousefAhmed11/Real-VS-Fake-Image-Classification">
+  <a href="https://huggingface.co/spaces/YousefAhmed11/Real-VS-Fake-Image-Classification" target="_blank" rel="noopener noreferrer">
     <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg" width="300" alt="Open in HF Spaces">
   </a>
 </div>
