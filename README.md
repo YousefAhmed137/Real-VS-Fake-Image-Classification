@@ -11,8 +11,7 @@ This repository contains the backend and interactive dashboard for my **Final Gr
 To ensure reliability and speed, the system evaluates images using a **Dual-Architecture Analysis**.
 
 ## 🚀 Live Demo
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)]
-## 🧠 Models Architecture
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/YousefAhmed11/Real-VS-Fake-Image-Classification)## 🧠 Models Architecture
 Users can dynamically switch between two state-of-the-art models:
 1. **Vision Transformer (ViT-Base):** Acts as the "SOTA Champion," analyzing the entire image contextually for the highest accuracy.
 2. **MobileNetV2:** A lightweight CNN optimized via transfer learning for rapid inference and speed.
