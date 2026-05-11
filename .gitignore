@@ -1,0 +1,4 @@
+﻿cifake_data/
+best_cifake_vit_model/
+vit-cifake-model/
+*.keras
