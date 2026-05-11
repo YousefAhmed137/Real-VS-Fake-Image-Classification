@@ -11,8 +11,7 @@ This repository contains the backend and interactive dashboard for my **Final Gr
 To ensure reliability and speed, the system evaluates images using a **Dual-Architecture Analysis**.
 
 ## 🚀 Live Demo
-You can test the live interactive dashboard here: **[Insert Your Hugging Face Space Link Here]**
-
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)]
 ## 🧠 Models Architecture
 Users can dynamically switch between two state-of-the-art models:
 1. **Vision Transformer (ViT-Base):** Acts as the "SOTA Champion," analyzing the entire image contextually for the highest accuracy.
